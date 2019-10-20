@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-06-15 11:35-0300\n"
 "PO-Revision-Date: 2019-10-20 12:45+0000\n"
-"Last-Translator: Danilo BS2 <dbaio@bs2.com.br>\n"
+"Last-Translator: Weblate Admin <dbaio@bsd.com.br>\n"
 "Language-Team: Spanish <https://weblate.eastus.cloudapp.azure.com/projects/"
 "freebsd-doc/articles_linux-emulation/es/>\n"
 "Language: es_ES\n"
@@ -3234,7 +3234,7 @@ msgstr ""
 #. (itstool) path: sect1/title
 #: article.translate.xml:2435
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusión"
 
 #. (itstool) path: sect2/title
 #: article.translate.xml:2438
