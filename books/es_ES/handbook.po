@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-06-15 11:32-0300\n"
 "PO-Revision-Date: 2019-10-20 12:45+0000\n"
-"Last-Translator: Danilo BS2 <dbaio@bs2.com.br>\n"
+"Last-Translator: Weblate Admin <dbaio@bsd.com.br>\n"
 "Language-Team: Spanish <https://weblate.eastus.cloudapp.azure.com/projects/"
 "freebsd-doc/boooks_handbook/es/>\n"
 "Language: es_ES\n"
@@ -1221,7 +1221,7 @@ msgstr ""
 #. (itstool) path: sect2/title
 #: book.translate.xml:1658 book.translate.xml:23725 book.translate.xml:65535
 msgid "Introduction"
-msgstr ""
+msgstr "Introducción"
 
 #. (itstool) path: authorgroup/author
 #: book.translate.xml:1661 book.translate.xml:2767
