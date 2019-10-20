@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-06-15 11:32-0300\n"
-"PO-Revision-Date: 2019-10-20 12:45+0000\n"
-"Last-Translator: Danilo BS2 <dbaio@bs2.com.br>\n"
+"PO-Revision-Date: 2019-10-20 12:51+0000\n"
+"Last-Translator: Weblate Admin <dbaio@bsd.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.eastus.cloudapp.azure."
 "com/projects/freebsd-doc/boooks_design-44bsd/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -3364,12 +3364,16 @@ msgstr "Departamento de Ciência da Computação da Universidade Carnegie-Mellon
 
 #. (itstool) path: publisher/address
 #: book.translate.xml:2710
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "\n"
 "\t  <city>Pittsburgh</city>\n"
 "\t  <state>PA</state>\n"
 "\t"
 msgstr ""
+"\n"
+"\t  <city>Pittsburgh</city>\n"
+"\t  <state>PA</state>\n"
+"\t"
 
 #. (itstool) path: biblioentry/pubdate
 #: book.translate.xml:2716
