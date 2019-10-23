@@ -1,11 +1,12 @@
 # $FreeBSD$
 # Edson Brandi <ebrandi@FreeBSD.org>, 2019. #zanata
+# Weblate Admin <dbaio@bsd.com.br>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-06-15 11:32-0300\n"
-"PO-Revision-Date: 2019-10-20 12:45+0000\n"
-"Last-Translator: Danilo BS2 <dbaio@bs2.com.br>\n"
+"PO-Revision-Date: 2019-10-24 01:42+0000\n"
+"Last-Translator: Weblate Admin <dbaio@bsd.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.eastus.cloudapp.azure."
 "com/projects/freebsd-doc/boooks_developers-handbook/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -31,7 +32,7 @@ msgstr "Handbook dos Desenvolvedores FreeBSD"
 #. (itstool) path: info/author
 #: book.translate.xml:35
 msgid "<orgname>The FreeBSD Documentation Project</orgname>"
-msgstr " <orgname>Projeto de Documentação do FreeBSD</orgname>"
+msgstr "<orgname>Projeto de Documentação do FreeBSD</orgname>"
 
 #. (itstool) path: info/pubdate
 #. (itstool) path: info/releaseinfo
