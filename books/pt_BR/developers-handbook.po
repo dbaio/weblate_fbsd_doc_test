@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-06-15 11:32-0300\n"
-"PO-Revision-Date: 2019-10-24 01:42+0000\n"
+"PO-Revision-Date: 2019-10-24 11:51+0000\n"
 "Last-Translator: Weblate Admin <dbaio@bsd.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.eastus.cloudapp.azure."
 "com/projects/freebsd-doc/boooks_developers-handbook/pt_BR/>\n"
@@ -283,8 +283,8 @@ msgid ""
 "<personname><firstname>Murray</firstname><surname>Stokely</surname></"
 "personname><contrib>Contributed by </contrib>"
 msgstr ""
-" <personname><firstname>Murray</firstname><surname>Stokely</surname></"
-"personname><contrib>Contribuíram por </contrib> "
+"<personname><firstname>Murray</firstname><surname>Stokely</surname></personna"
+"me><contrib>Contribuído por </contrib>"
 
 #. (itstool) path: authorgroup/author
 #: book.translate.xml:177
@@ -1561,7 +1561,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: book.translate.xml:840
 msgid "<option>-c</option>"
-msgstr " <option>-c</option> "
+msgstr "<option>-c</option>"
 
 #. (itstool) path: listitem/para
 #: book.translate.xml:843
